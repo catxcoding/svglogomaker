@@ -25,7 +25,9 @@ async function runLogoMaker() {
 
   // Set colors
   shape.setColor(userInput.shapeColor);
-
+  
+  // Set text color
+  shape.setTextColor(userInput.textColor);
 
   // Generate the SVG string
   const svgString = shape.render();
