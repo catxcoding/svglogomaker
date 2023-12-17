@@ -27,4 +27,16 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
+## Installation
+```md
+1. Ensure you have NodeJS installed to utilize this application. Click [here](https://nodejs.org/en) to visit the NodeJS Website.
+2. Clone the Git repository 
+3. After cloning the repo, open your Command Line application (Command prompt/Terminal) and navigate to your repository's directory.
+4. In the command line, do `npm i` to download the needed npm packages.
+5. After installing the necessary packages, run the application by typing `node index.js` in your command line.
+```md
+
+## Usage
+
 ## Mock-Up
+![SVG LOGO](examples/example_1702853566804.svg)
