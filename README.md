@@ -1,6 +1,6 @@
-# 10 Object-oriented Programming: SVG Logo Maker
+### 10 Object-Oriented Programming: SVG Logo Maker
 
-### User Story (from assignment)
+## User Story (from assignment)
 
 ```m
 AS a freelance web developer
@@ -33,11 +33,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 3. After cloning the repo, open your Command Line application (Command prompt/Terminal) and navigate to your repository's directory.
 4. In the command line, do `npm i` to download the needed npm packages.
 5. After installing the necessary packages, run the application by typing `node index.js` in your command line.
-
+---
 ## Mock-Up
 ![logo.svg](examples/logo.svg)
+
 [LINK TO VIDEO DEMO](https://youtu.be/5b_2HeSgubU)
 
+---
 ## Usage
 1. `cd`into the svglogomaker file
 ![Alt text](assets/svglogomaker1.jpg)
